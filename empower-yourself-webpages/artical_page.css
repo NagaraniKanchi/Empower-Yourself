@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.artical-page-container {
+    background-color:#f679fd;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.artical-main-heading {
+    color: #ffffff;
+    font-family: "roboto";
+
+}
+
+.artical-description {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.container-card {
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+
+.image {
+    padding: 30px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.img-heading {
+    color: #1f2933;
+    font-family: "caveat";
+    font-size:20px;
+    font-weight:600;
+}
+
+.artical-card-container {
+    background-color:#f679fd;
+    background-size: cover;
+    padding: 50px;
+
+}
+
+.artical-card {
+    color:#ffffff;
+    font-family: "caveat";
+}
+.artical-page-heading {
+    font-size: 35px;
+    padding-top:20px ;
+}
+.artical-tech-names{
+    font-size:20px;
+}
